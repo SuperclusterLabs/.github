@@ -1,12 +1,12 @@
-## Hi there 👋
+# Supercluster Labs
 
-<!--
+## Vision
+Our vision is a future where privacy is treated as a basic human right, and users can choose not to rely on centralized economic entities.
 
-**Here are some ideas to get you started:**
+## Mission
+To enable DAOs to operate in a maximally decentralized fashion by providing easy to use decentralized tools designed for all users - technical and nontechnical.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Get Involved
+* [Website](https://www.supercluster.dev)
+* [Notion](https://buttered-ketch-b1b.notion.site/Supercluster-Labs-93c641213bd742dc9687e70c5d36e1bd)
+* [Discord](https://discord.gg/Q4bKAbWj)
