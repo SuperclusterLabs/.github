@@ -8,9 +8,8 @@ To enable DAOs to operate in a maximally decentralized fashion by providing easy
 
 ## Get Involved
 * [Website](https://www.supercluster.dev)
-* [Notion](https://buttered-ketch-b1b.notion.site/Supercluster-Labs-93c641213bd742dc9687e70c5d36e1bd)
+* [Notion](https://supercluster-labs.notion.site/Supercluster-Labs-93c641213bd742dc9687e70c5d36e1bd)
 * [Discord](https://discord.gg/Q4bKAbWj)
 
 ## Resources
-* [Designs](https://www.figma.com/file/3kFoxduVPAsFVbU9ovSgTE/Web-App-Designs?t=ktdt5u1mq4QOl8y0-1)
 * [Roadmap](https://github.com/orgs/SuperclusterLabs/projects/1/views/1)
